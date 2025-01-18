@@ -40,12 +40,12 @@ To get a local copy up and running, follow these simple steps:
 
 1. Clone the repository
    ```
-   git clone https://github.com/yourusername/my-awesome-portfolio.git
+   git clone https://github.com/M7mdJs/Awesome-Portfolio.git
    ```
 
 2. Navigate to the project directory
    ```
-   cd my-awesome-portfolio
+   cd Awesome-Portfolio
    ```
 
 3. Install dependencies
@@ -87,7 +87,7 @@ Distributed under the MIT License. See `LICENSE` for more information.
 
 Your Name - [@your_twitter](https://twitter.com/your_twitter) - email@example.com
 
-Project Link: [https://github.com/yourusername/my-awesome-portfolio](https://github.com/yourusername/my-awesome-portfolio)
+Project Link: [https://github.com/M7mdJs/Awesome-Portfolio](https://github.com/M7mdJs/Awesome-Portfolio)
 
 ---
 
